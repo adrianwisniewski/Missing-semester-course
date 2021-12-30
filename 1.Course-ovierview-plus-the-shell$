@@ -1,3 +1,0 @@
-#!/bin/sh
-curl --head --silent https://missing.csail.mit.ed
-raz raz test
