@@ -1,0 +1,2 @@
+/bin/bash
+#it is compiled echo $SHELL, which shows environment variable path on system
