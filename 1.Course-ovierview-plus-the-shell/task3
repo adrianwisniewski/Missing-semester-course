@@ -1,0 +1,3 @@
+"man" is command used to display manual of any command that we can run in terminal
+ex. "man ls" will show manual for ls program.
+"touch" creates new file
