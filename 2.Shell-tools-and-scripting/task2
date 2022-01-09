@@ -1,0 +1,9 @@
+#not necessery working - to be checked
+#!/bin/bash
+marco(){
+    MARCO=($pwd)
+}
+polo(){
+    marco
+    cd $MARCO
+}
