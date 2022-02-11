@@ -1,0 +1,10 @@
+#!/bin/sh
+
+marco () {
+    saved_dir="$(pwd)"
+}
+
+polo() {
+	cd "$saved_dir"
+}
+
